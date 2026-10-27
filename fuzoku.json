@@ -5,7 +5,12 @@
  "yomi": "ふぞくうた",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（風俗歌）",
+  "era": "平安時代",
+  "author": "未詳",
+  "desc": "諸国の民謡が宮廷に取り入れられ、宴や儀式で歌われた歌謡。"
+ },
  "editions": [
   {
    "pid": "1913603",
