@@ -772,6 +772,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 27,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "fuzoku",
   "work": "風俗歌",
@@ -784,7 +788,7 @@
   "blocks": 27,
   "chars": 1343,
   "poems": 29,
-  "yaku": 0,
+  "yaku": 27,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T08:41:57+09:00"
